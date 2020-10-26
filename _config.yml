@@ -1,0 +1,17 @@
+title: 'skurbatov.github.io'
+description: "skurbatov.github.io"
+baseurl: ""
+url: "https://skurbatov.github.io"
+port: 4444
+
+header_pages:
+  - index.md
+  # - qualifications.md
+  # - experience.md
+  # - profiles.md
+  # - about.md
+  # - contact.md
+
+# Build settings
+theme: jekyll-theme-hacker
+google_analytics:
