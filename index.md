@@ -22,7 +22,7 @@ Since childhood I have been involved with IT, computers or the like, and I reall
 - PKI: cfssl, vault, MS CA
 - HA: nginx
 - Clouds: Google Cloud Platform
-- Networking: Cisco, Huawei, HPE, Extreme Networks,D-Link, Mikrotik, VyOS, Linux networking (static routing, quagga)
+- Networking: Cisco, Huawei, HPE, Extreme Networks, D-Link, Mikrotik, VyOS, Linux networking (static routing, quagga)
 - Dev: Bash, Python
 - CI: Travis CI
 - CICD: Gitlab
