@@ -53,7 +53,7 @@ Since childhood I have been involved with IT, computers or the like, and I reall
 
 ## Experience
 - [**2021-present**] - Innotech, LLC. Lead DevOps Engineer
-- [**2019-2021] - Getmobit, LLC. DevOps Engineer
+- [**2019-2021**] - Getmobit, LLC. DevOps Engineer
 - [**2011-2019**] - Softline, JSC. System Architect
 - [**2007-2011**] - Best-Telecom, CJSC. Network Engineer
 
