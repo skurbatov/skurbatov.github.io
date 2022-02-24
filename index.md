@@ -58,7 +58,7 @@ Since childhood I have been involved with IT, computers or the like, and I reall
 - [**2007-2011**] - Best-Telecom, CJSC. Network Engineer
 
 
-## Moar about me and my skills:
+## More about me and my skills:
 - [CV En](https://bit.ly/37JXpVp)
 
 ## Personal interests
